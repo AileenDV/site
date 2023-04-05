@@ -24,17 +24,30 @@ h2 {
     justify-content: center;
 }
 
-.img{
+.img {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
+section {
+    display: flex;
+    justify-content: space-between;
+    border-radius: ;
+}
+
+img {
+    border-radius: 30px;
+}
+
+.imagem {
+    width: 70%;
+}
 
 .botao {
     display: flex;
-    align-items: left;
-    justify-content: left;
+    align-items: center;
+    justify-content: center;
 }
 
 footer {
